@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/repoflow-agent-container",
-  "version": "1.70.2-master",
+  "version": "1.70.0-container-agent-prod",
   "description": "Agent to handle internal node app in container",
   "main": "src/index.js",
   "repository": "github.com:vicjicaman/repoflow-agent-npm.git",
